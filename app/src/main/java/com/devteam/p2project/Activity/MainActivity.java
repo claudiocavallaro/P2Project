@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     private AsyncStart asyncStart = new AsyncStart(this);
     private AsyncJoin asyncJoin = new AsyncJoin(this);
 
+    //PROVA COMMIT
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
