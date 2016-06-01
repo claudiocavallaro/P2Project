@@ -3,7 +3,8 @@ package com.devteam.p2project.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.devteam.p2project.R;
+import com.teamdev.progettosisd.R;
+
 
 /**
  * Created by claudiocavallaro on 01/06/16.
